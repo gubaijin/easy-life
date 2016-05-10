@@ -1,10 +1,10 @@
-package com.kevin.guide;
+package com.easylife.guide;
 
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 
-import com.kevin.R;
-import com.kevin.base.BaseActivity;
+import com.easylife.base.BaseActivity;
+import com.easylife.R;
 
 /**
  * 引导页

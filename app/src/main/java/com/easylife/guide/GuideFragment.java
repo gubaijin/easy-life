@@ -1,4 +1,4 @@
-package com.kevin.guide;
+package com.easylife.guide;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -11,9 +11,9 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
 
-import com.kevin.R;
-import com.kevin.base.BaseActivity;
-import com.kevin.home.HomeActivity;
+import com.easylife.home.HomeActivity;
+import com.easylife.R;
+import com.easylife.base.BaseActivity;
 import com.kevin.utils.SharePrefUtil;
 
 /**

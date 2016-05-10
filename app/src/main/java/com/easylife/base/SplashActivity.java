@@ -1,12 +1,12 @@
-package com.kevin.base;
+package com.easylife.base;
 
 import android.os.Bundle;
 import android.os.Handler;
 import android.widget.TextView;
 
-import com.kevin.R;
-import com.kevin.guide.GuideActivity;
-import com.kevin.home.HomeActivity;
+import com.easylife.R;
+import com.easylife.guide.GuideActivity;
+import com.easylife.home.HomeActivity;
 import com.kevin.utils.SharePrefUtil;
 
 /**

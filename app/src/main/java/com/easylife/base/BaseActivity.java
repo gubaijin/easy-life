@@ -1,4 +1,4 @@
-package com.kevin.base;
+package com.easylife.base;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,7 +6,7 @@ import android.os.PersistableBundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.Window;
 
-import com.kevin.R;
+import com.easylife.R;
 
 /**
  * Created by Kevin on 2016/4/28.

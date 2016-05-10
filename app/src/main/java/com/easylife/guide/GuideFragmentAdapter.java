@@ -1,10 +1,10 @@
-package com.kevin.guide;
+package com.easylife.guide;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.kevin.R;
+import com.easylife.R;
 
 /**
  * 引导页数据适配器
