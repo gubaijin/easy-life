@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-base</string>
+    <string name="splash_word">android-base启动页，即将跳转……</string>
+    <string name="is_first_in">is_first_in</string>
+</resources>
