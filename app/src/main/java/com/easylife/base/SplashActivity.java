@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 import com.easylife.R;
 import com.easylife.guide.GuideActivity;
-import com.easylife.home.HomeActivity;
+import com.easylife.mobile.MobileActivity;
 import com.kevin.utils.SharePrefUtil;
 
 /**
@@ -42,7 +42,7 @@ public class SplashActivity extends BaseActivity {
             new Handler().postDelayed(new Runnable() {
                 @Override
                 public void run() {
-                    openActivity(HomeActivity.class);
+                    openActivity(MobileActivity.class);
                 }
             }, DURATION);
         }
